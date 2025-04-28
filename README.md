@@ -186,7 +186,8 @@
 
   <section class="intro">
     
-    <img src="aku.jpg" alt="Foto">
+    <img src="![aku](https://github.com/user-attachments/assets/45946009-c848-411b-825f-c14aa02b6a97)
+" alt="Foto">
     <div class="intro-text">
     <h2>Halo, saya Maratus Setiani</h2>
     <P>Saya seorang mahasiswa di universitas nahdlatul ulama sunan giri bojonegoro.</P>
@@ -203,7 +204,8 @@
       <p> Saya adalah alumi dari pondok pesantren ATTANWIR bojonegoro.</p>
       <p>Dan kini saya melanjutkan pendidikan saya dengan kuliah di UNUGIRI di prodi Teknik Informatika.</p>
     </div>
-    <img src="c:\Users\HP 14s\OneDrive\画像\atus.jpg" alt="Foto Tentang Saya">
+    <img src="![atus](https://github.com/user-attachments/assets/579c18b8-58ce-4d7a-8d3a-76895d36298e)
+" alt="Foto Tentang Saya">
   </section> 
 
   <hr class="garis-pemisah">
@@ -257,12 +259,18 @@
 
   <section class="opini">
    
-    <div><img src="c:\Users\HP 14s\OneDrive\画像\kmd.jpg" alt="Opini 1"><h4>KMD Attanwir</h4></div>
-    <div><img src="c:\Users\HP 14s\OneDrive\画像\it camp.jpg" alt="Opini 2"><h4>IT camp</h4></div>
-    <div><img src="c:\Users\HP 14s\OneDrive\画像\sosialisasi.jpg" alt="Opini 3"><h4>Sosialisasi</h4></div>
-    <div><img src="c:\Users\HP 14s\OneDrive\画像\tugas1.jpg" alt="Opini 4"><h4>Tugas Pemograman</h4></div>
-    <div><img src="c:\Users\HP 14s\OneDrive\画像\tugas.jpg" alt="Opini 5"><h4>Tugas struktur data</h4></div>
-    <div><img src="c:\Users\HP 14s\OneDrive\画像\tugas2.jpg" alt="Opini 6"><h4>Tugas Bahasa inggris </h4></div>
+    <div><img src="![kmd](https://github.com/user-attachments/assets/6c1dbcb6-5cac-4e1f-bb74-c4e664feaa86)
+" alt="Opini 1"><h4>KMD Attanwir</h4></div>
+    <div><img src="![it camp](https://github.com/user-attachments/assets/5bd1f8b8-01e6-4493-96f6-863e5f708ff1)
+" alt="Opini 2"><h4>IT camp</h4></div>
+    <div><img src="![sosialisasi](https://github.com/user-attachments/assets/ccfbaaf3-6c6c-4716-8520-15632379a84a)
+" alt="Opini 3"><h4>Sosialisasi</h4></div>
+    <div><img src="![tugas1](https://github.com/user-attachments/assets/25580e16-0266-4e7e-9343-93da1e40015c)
+" alt="Opini 4"><h4>Tugas Pemograman</h4></div>
+    <div><img src="![tugas](https://github.com/user-attachments/assets/8b07188b-110a-4343-be66-c6b1d41fe965)
+" alt="Opini 5"><h4>Tugas struktur data</h4></div>
+    <div><img src="![tugas2](https://github.com/user-attachments/assets/38037663-25ed-4ad2-8821-4c4dce8be40f)
+" alt="Opini 6"><h4>Tugas Bahasa inggris </h4></div>
   </section> 
    <hr class="garis garis-pemisah">
    
