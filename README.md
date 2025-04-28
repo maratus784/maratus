@@ -186,7 +186,7 @@
 
   <section class="intro">
     
-    <img src="c:\Users\HP 14s\OneDrive\画像\aku.jpg" alt="Foto">
+    <img src="aku.jpg" alt="Foto">
     <div class="intro-text">
     <h2>Halo, saya Maratus Setiani</h2>
     <P>Saya seorang mahasiswa di universitas nahdlatul ulama sunan giri bojonegoro.</P>
